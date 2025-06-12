@@ -1,15 +1,14 @@
 ![Banner](banner2.gif)
 
-# Olá! Eu sou o João 👋
+# Olá! Me chamo Gabriel 👋
 
-🎓 Estudante de Desenvolvimento Web  
-💻 Praticando HTML, CSS, GitHub  
-📫 Contato: joao@email.com  
+🎓 Cursando Desenvolvimento de Sistemas 
+💻 Praticando HTML, CSS, JavaScript, C#, GitHub  
+📫 Contato: gabrieljnborba@gmail.com  
 
 ## 🚀 Projetos em Destaque
 
 - [Meu Portfólio](https://joaosilva.github.io)
-- [Site de Receitas](https://github.com/joaosilva/receitas)
 
 ---
 
