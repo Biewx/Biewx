@@ -1,4 +1,4 @@
-![Bem-vindo](https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif)
+![Banner animado](./Banner.gif)
 
 # Olá! Eu sou o João 👋
 
