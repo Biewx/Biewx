@@ -1,4 +1,4 @@
-![Banner animado](./Banner.gif)
+![Banner animado](Banner.gif)
 
 # Olá! Eu sou o João 👋
 
