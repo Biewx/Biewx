@@ -3,7 +3,9 @@
 # Olá! Me chamo Gabriel 👋
 
 🎓 Cursando Desenvolvimento de Sistemas 
+
 💻 Praticando HTML, CSS, JavaScript, C#, GitHub  
+
 📫 Contato: gabrieljnborba@gmail.com  
 
 ## 🚀 Projetos em Destaque
