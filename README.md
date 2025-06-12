@@ -1,4 +1,4 @@
-![Banner animado](Banner.gif)
+![Banner](https://github.com/Biewx/Biewx/blob/main/Banner.gif?raw=true)
 
 # Olá! Eu sou o João 👋
 
