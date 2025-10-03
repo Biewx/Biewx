@@ -2,15 +2,15 @@
 
 # Olá! Me chamo Gabriel 👋
 
-🎓 Cursando Desenvolvimento de Sistemas 
+🎓 Técnico em Desenvolvimento de Sistemas 
 
-💻 Praticando HTML, CSS, JavaScript, C#, GitHub  
+💻 Praticando HTML, CSS, JavaScript, C#, PHP, Laravel e mais. 
 
 📫 Contato: gabrieljnborba@gmail.com  
 
 ## 🚀 Projetos em Destaque
 
-- [Meu Portfólio](https://joaosilva.github.io)
+- 
 
 ---
 
